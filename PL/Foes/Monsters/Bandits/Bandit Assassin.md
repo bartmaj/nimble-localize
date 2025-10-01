@@ -1,8 +1,8 @@
-**Level:** 2 | **Size:** Medium | **Group:** Bandits
-**HP:** 24 | **Armor:** None | **Speed:** 6
+**Poziom:** 2 | **Rozmiar:** Średni | **Grupa:** Bandyci
+**PŻ:** 24 | **Pancerz:** Brak | **Prędkość:** 6
 
-**Passive**
-* **Sneak.** You are invisible until you attack.
+**Um. Pasywne**
+* **Skradanie.** Jesteś niewidzialny dopóki nie wykonasz ataku.
 
-**Actions**
-* **Poison Blade (2×).** 1d8+2. On damage: Dazed.
+**Akcje**
+* **Zatrute Ostrze (2×).** 1k8+2. Przy zadaniu Obrażeń: Oszołomiony.
